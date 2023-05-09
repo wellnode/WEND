@@ -1,0 +1,6 @@
+usr/local/bin/wend-qt usr/bin
+share/pixmaps/wend32.xpm usr/share/pixmaps
+share/pixmaps/wend16.xpm usr/share/pixmaps
+share/pixmaps/wend128.png usr/share/pixmaps
+debian/wend-qt.desktop usr/share/applications
+debian/wend-qt.protocol usr/share/kde4/services/

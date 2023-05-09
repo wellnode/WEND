@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Wend 
+Comment=Wend P2P Cryptocurrency
+Comment[fr]=Wend, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Wend, eşten eşe kriptografik sanal para birimi
+Exec=wend-qt %u
+Terminal=false
+Type=Application
+Icon=wend128
+MimeType=x-scheme-handler/wend;
+Categories=Office;Finance;
+StartupWMClass=wend-qt
